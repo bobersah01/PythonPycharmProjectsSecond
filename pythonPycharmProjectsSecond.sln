@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pythonPycharmProjectsSecond", "pythonPycharmProjectsSecond\pythonPycharmProjectsSecond.pyproj", "{02FE3297-DE59-4E28-AF87-154CA45E29A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02FE3297-DE59-4E28-AF87-154CA45E29A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02FE3297-DE59-4E28-AF87-154CA45E29A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B68EC37-4283-48C0-A4CC-72B3AEF055C3}
+	EndGlobalSection
+EndGlobal
